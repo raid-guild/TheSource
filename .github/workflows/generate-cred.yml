@@ -29,10 +29,10 @@ jobs:
         uses: vsoch/cred-action@wip-discord-cache
         env:
           token: ${{ secrets.GITHUB_TOKEN }}
-          SOURCECRED_DISCORD_TOKEN: ${{ secrets.SOURCECRED_DISCORD_TOKEN }}
+          # SOURCECRED_DISCORD_TOKEN: ${{ secrets.SOURCECRED_DISCORD_TOKEN }}
         with:
           weights: weights.json
-          project: "@raidguild"
+          project: "@odyssy-automaton"
           project-file: project.json
           branch-against: master
           automated: true
