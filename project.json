@@ -4,76 +4,25 @@
     "version": "0.4.0"
   },
   {
-    "id": "@raidguild",
-    "discord": {
-      "guildId": "684227450204323876",
-      "reactionWeights": {
-        ":raid:685305623130538029": 2,
-        "👍": 1,
-        "🔥": 1,
-        "❤️": 1,
-        "💯": 1,
-        "🙏": 1
-      }
-    },
+    "id": "@odyssy-automaton",
     "identities": [
       {
-        "username": "hammadj",
-        "aliases": ["github/hammadj", "discord/118260545211072517"]
-      },
-      {
         "username": "Ven",
-        "aliases": ["github/oovg", "discord/538087853628981259"]
+        "aliases": ["github/oovg"]
       },
       {
         "username": "skuhlmann",
-        "aliases": ["github/skuhlmann", "discord/547240329166848020"]
+        "aliases": ["github/skuhlmann"]
       },
       {
         "username": "dekanbro",
-        "aliases": ["github/dekanbro", "discord/435541241795444737"]
-      },
-      {
-        "username": "YalorMewn",
-        "aliases": ["github/YalorMewn", "discord/360481131029856256"]
-      },
-      {
-        "username": "proofoftom",
-        "aliases": ["github/proofoftom", "discord/416481791285657601"]
-      },
-      {
-        "username": "DarrenRM",
-        "aliases": ["github/DarrenRM", "discord/98845601071894528"]
+        "aliases": ["github/dekanbro"]
       }
     ],
     "repoIds": [
       {
-        "name": "HQ",
-        "owner": "raid-guild"
-      },
-      {
-        "name": "dot-org",
-        "owner": "raid-guild"
-      },
-      {
-        "name": "caletaXP-web",
-        "owner": "raid-guild"
-      },
-      {
-        "name": "RIPs",
-        "owner": "raid-guild"
-      },
-      {
-        "name": "buidler-waffle-typechain-oz-vue",
-        "owner": "raid-guild"
-      },
-      {
-        "name": "gatsby-typescript-dapp-starter",
-        "owner": "raid-guild"
-      },
-      {
-        "name": "gatsby-typescript-dapp-starter",
-        "owner": "raid-guild"
+        "name": "pokemol-web",
+        "owner": "odyssy-automaton"
       }
     ]
   }
